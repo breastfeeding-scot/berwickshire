@@ -1,3 +1,4 @@
 baseURL = 'https://berwickshire.breastfeeding.scot'
 languageCode = 'en-gb'
 title = 'LLL Berwickshire'
+disableKinds = ['taxonomy', 'term']

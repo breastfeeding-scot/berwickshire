@@ -1,0 +1,8 @@
+{{ define "head_extra" -}}
+  <script type="text/javascript">if(window.location.hash.indexOf('token')>-1)window.location.href=window.location.origin+'/admin/'+window.location.hash</script>
+{{- end }}
+{{ define "main" }}
+  <article>
+    {{ .Content }}
+  </article>
+{{ end }}
