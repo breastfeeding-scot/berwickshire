@@ -10,9 +10,7 @@ Free breastfeeding support and information from pregnancy onwards
 
 **Ayton Community Hall**
 
-**Tuesday 20 September**
-
-**Tuesday 18 October**
+**Every third Tuesday of the Month**
 
 **12pm – 1:30pm**
 
